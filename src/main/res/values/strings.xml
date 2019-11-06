@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="list">Make new List</string>
+    <string name="def">All reminders</string>
+    <string name="name">Enter list name</string>
+    <string name="rem">Add a reminder</string>
+    <string-array name="categories">
+        <item>Reminder type</item>
+        <item>Appointment</item>
+        <item>Chore</item>
+        <item>Work</item>
+        <item>Project</item>
+    </string-array>
+    <string name="rem1">Reminder Name</string>
+    <string name="rem2">Set Date</string>
+    <string name="rem3">Set Time</string>
+    <string name="rem4">Submit</string>
+    <string name="rem5"></string>
+</resources>
