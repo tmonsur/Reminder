@@ -3,6 +3,7 @@
     <string name="list">Make new List</string>
     <string name="def">All reminders</string>
     <string name="name">Enter list name</string>
+    <string name="add">Add</string>
     <string name="rem">Add a reminder</string>
     <string-array name="categories">
         <item>Reminder type</item>
